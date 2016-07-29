@@ -11,6 +11,7 @@ public class First {
 		data.charAt(3);
 		
 		System.out.println("현기 추가");
+		System.out.println("상주 추가");
 	}//main end
 
 }//class end
