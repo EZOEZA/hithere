@@ -10,6 +10,7 @@ public class First {
 		String b="abcde";
 		data.charAt(3);
 		
+		System.out.println("현기 추가");
 	}//main end
 
 }//class end
